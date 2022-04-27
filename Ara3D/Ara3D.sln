@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32104.313
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ara3D", "Ara3D\Ara3D.csproj", "{5063364B-9439-4B7D-89F7-718E1902F36D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ara3D.SDK", "Ara3D.SDK\Ara3D.SDK.csproj", "{10A132D4-C27A-4D7D-A800-BF4545BAECDE}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ara3D.OpenTK", "Ara3D.OpenTK\Ara3D.OpenTK.csproj", "{734E424D-3E83-4183-A34A-BE9EB2F99258}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PlatoTestJavaScript", "C:\Users\Acer\source\repos\Plato\PlatoTestJavaScript\PlatoTestJavaScript.csproj", "{F69A2CC5-1687-442B-B6A4-08758AC9730B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5063364B-9439-4B7D-89F7-718E1902F36D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5063364B-9439-4B7D-89F7-718E1902F36D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5063364B-9439-4B7D-89F7-718E1902F36D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5063364B-9439-4B7D-89F7-718E1902F36D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{10A132D4-C27A-4D7D-A800-BF4545BAECDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10A132D4-C27A-4D7D-A800-BF4545BAECDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10A132D4-C27A-4D7D-A800-BF4545BAECDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10A132D4-C27A-4D7D-A800-BF4545BAECDE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{734E424D-3E83-4183-A34A-BE9EB2F99258}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{734E424D-3E83-4183-A34A-BE9EB2F99258}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{734E424D-3E83-4183-A34A-BE9EB2F99258}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{734E424D-3E83-4183-A34A-BE9EB2F99258}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F69A2CC5-1687-442B-B6A4-08758AC9730B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F69A2CC5-1687-442B-B6A4-08758AC9730B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F69A2CC5-1687-442B-B6A4-08758AC9730B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F69A2CC5-1687-442B-B6A4-08758AC9730B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {56F0516F-8156-43D9-A62D-66A3B691ABFE}
+	EndGlobalSection
+EndGlobal
