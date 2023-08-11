@@ -1,0 +1,75 @@
+[submodule "revit-test-datasets"]
+	path = revit-test-datasets
+	url = https://github.com/magnetar-io/revit-test-datasets
+[submodule "Autodesk/NwLookup"]
+	path = Autodesk/NwLookup
+	url = https://github.com/awmcc90/NwLookup
+[submodule "Autodesk/NwGeoPrimitives"]
+	path = Autodesk/NwGeoPrimitives
+	url = https://github.com/jeremytammik/NwGeoPrimitives
+[submodule "Autodesk/RevitLookup"]
+	path = Autodesk/RevitLookup
+	url = https://github.com/jeremytammik/RevitLookup
+[submodule "Autodesk/ElementOutline"]
+	path = Autodesk/ElementOutline
+	url = https://github.com/jeremytammik/ElementOutline
+[submodule "Autodesk/StairsAutomation"]
+	path = Autodesk/StairsAutomation
+	url = https://github.com/jeremytammik/StairsAutomation
+[submodule "Vimaec/math3d"]
+	path = Vimaec/math3d
+	url = https://github.com/vimaec/math3d
+[submodule "Vimaec/bfast"]
+	path = Vimaec/bfast
+	url = https://github.com/vimaec/bfast
+[submodule "Vimaec/g3d"]
+	path = Vimaec/g3d
+	url = https://github.com/vimaec/g3d
+[submodule "Vimaec/linqarray"]
+	path = Vimaec/linqarray
+	url = https://github.com/vimaec/linqarray
+[submodule "Vimaec/vim"]
+	path = Vimaec/vim
+	url = https://github.com/vimaec/vim
+[submodule "Vimaec/vim-format"]
+	path = Vimaec/vim-format
+	url = https://github.com/vimaec/vim-format
+[submodule "Vimaec/vim-webgl-viewer"]
+	path = Vimaec/vim-webgl-viewer
+	url = https://github.com/vimaec/vim-webgl-viewer
+[submodule "Vimaec/vim-webgl-app"]
+	path = Vimaec/vim-webgl-app
+	url = https://github.com/vimaec/vim-webgl-app
+[submodule "Vimaec/ara3d-dev"]
+	path = Vimaec/ara3d-dev
+	url = https://github.com/vimaec/ara3d-dev
+[submodule "Vimaec/difference-engine"]
+	path = Vimaec/difference-engine
+	url = https://github.com/vimaec/difference-engine
+[submodule "Autodesk/au2019-forge-revit-to-fbx"]
+	path = Autodesk/au2019-forge-revit-to-fbx
+	url = https://github.com/vimaec/au2019-forge-revit-to-fbx
+[submodule "Autodesk/au2019-unity-fbx-bim"]
+	path = Autodesk/au2019-unity-fbx-bim
+	url = https://github.com/vimaec/au2019-unity-fbx-bim
+[submodule "Vimaec/FGeometry"]
+	path = Vimaec/FGeometry
+	url = https://github.com/vimaec/FGeometry
+[submodule "Autodesk/aps-revit-ifc-exporter-appbundle"]
+	path = Autodesk/aps-revit-ifc-exporter-appbundle
+	url = https://github.com/yiskang/aps-revit-ifc-exporter-appbundle
+[submodule "Autodesk/revit-ifc"]
+	path = Autodesk/revit-ifc
+	url = https://github.com/Autodesk/revit-ifc
+[submodule "Autodesk/CreateAndPrintSheetsAndViews"]
+	path = Autodesk/CreateAndPrintSheetsAndViews
+	url = https://github.com/jeremytammik/CreateAndPrintSheetsAndViews
+[submodule "Autodesk/RevitSdkSamples"]
+	path = Autodesk/RevitSdkSamples
+	url = https://github.com/jeremytammik/RevitSdkSamples
+[submodule "Autodesk/the_building_coder_samples"]
+	path = Autodesk/the_building_coder_samples
+	url = https://github.com/jeremytammik/the_building_coder_samples
+[submodule "Autodesk/DirectObjLoader"]
+	path = Autodesk/DirectObjLoader
+	url = https://github.com/jeremytammik/DirectObjLoader

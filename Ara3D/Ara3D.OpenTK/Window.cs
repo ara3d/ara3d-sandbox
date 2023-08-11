@@ -5,7 +5,6 @@ using OpenTK.Mathematics;
 using OpenTK.Windowing.Common;
 using OpenTK.Windowing.GraphicsLibraryFramework;
 using OpenTK.Windowing.Desktop;
-using PlatoTestJavaScript;
 using Vector2 = OpenTK.Mathematics.Vector2;
 using Vector3 = OpenTK.Mathematics.Vector3;
 
@@ -112,31 +111,6 @@ namespace LearnOpenTK
         protected override void OnLoad()
         {
             base.OnLoad();
-
-            var torus = Extensions.Torus(10, 10, 1.0f, 0.2f);
-            var tmp = new List<float>();
-            var tris = torus.Faces.ToTriangles();
-            for (var i = 0; i < tris.Count; ++i)
-            {
-                var tri = tris[i];
-                for (var j = 0; j < 3; ++j)
-                {
-                    var k = tri[j];
-                    var pos = torus.Points.Positions[k];
-                    var uv = torus.Points.UVs[k];
-                    var normal = torus.Points.Normals[k];
-                    tmp.Add(pos.X);
-                    tmp.Add(pos.Y);
-                    tmp.Add(pos.Z);
-                    tmp.Add(normal.X);
-                    tmp.Add(normal.Y);
-                    tmp.Add(normal.Z);
-                    tmp.Add(uv.X);
-                    tmp.Add(uv.X);
-                }
-            }
-
-            _vertices = tmp.ToArray();
 
             GL.ClearColor(0.2f, 0.3f, 0.3f, 1.0f);
 
