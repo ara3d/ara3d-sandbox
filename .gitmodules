@@ -73,3 +73,201 @@
 [submodule "Autodesk/DirectObjLoader"]
 	path = Autodesk/DirectObjLoader
 	url = https://github.com/jeremytammik/DirectObjLoader
+[submodule "CSharp/sharpgl"]
+	path = CSharp/sharpgl
+	url = https://github.com/dwmkerr/sharpgl
+[submodule "CSharp/geometry3Sharp"]
+	path = CSharp/geometry3Sharp
+	url = https://github.com/gradientspace/geometry3Sharp
+[submodule "CSharp/Unity.Mathematics"]
+	path = CSharp/Unity.Mathematics
+	url = https://github.com/Unity-Technologies/Unity.Mathematics
+[submodule "CSharp/SVG"]
+	path = CSharp/SVG
+	url = https://github.com/svg-net/SVG
+[submodule "CSharp/NGraphics"]
+	path = CSharp/NGraphics
+	url = https://github.com/praeclarum/NGraphics
+[submodule "CSharp/SdfKit"]
+	path = CSharp/SdfKit
+	url = https://github.com/praeclarum/SdfKit
+[submodule "CSharp/stride"]
+	path = CSharp/stride
+	url = https://github.com/stride3d/stride
+[submodule "CSharp/mathnet-numerics"]
+	path = CSharp/mathnet-numerics
+	url = https://github.com/mathnet/mathnet-numerics
+[submodule "CSharp/Csg"]
+	path = CSharp/Csg
+	url = https://github.com/praeclarum/Csg
+[submodule "CSharp/MonoGame"]
+	path = CSharp/MonoGame
+	url = https://github.com/MonoGame/MonoGame
+[submodule "CDiggins/parakeet"]
+	path = CDiggins/parakeet
+	url = https://github.com/cdiggins/parakeet
+[submodule "CDiggins/Algorithms"]
+	path = CDiggins/Algorithms
+	url = https://github.com/cdiggins/Algorithms
+[submodule "CDiggins/plato"]
+	path = CDiggins/plato
+	url = https://github.com/cdiggins/plato
+[submodule "CDiggins/heron-language"]
+	path = CDiggins/heron-language
+	url = https://github.com/cdiggins/heron-language
+[submodule "CDiggins/type-inference"]
+	path = CDiggins/type-inference
+	url = https://github.com/cdiggins/type-inference
+[submodule "CDiggins/svg-editor"]
+	path = CDiggins/svg-editor
+	url = https://github.com/cdiggins/svg-editor
+[submodule "CDiggins/Plato.Collections"]
+	path = CDiggins/Plato.Collections
+	url = https://github.com/cdiggins/Plato.Collections
+[submodule "CDiggins/ptarmigan"]
+	path = CDiggins/ptarmigan
+	url = https://github.com/cdiggins/ptarmigan
+[submodule "CDiggins/cs321"]
+	path = CDiggins/cs321
+	url = https://github.com/cdiggins/cs321
+[submodule "CDiggins/SVG-Forked"]
+	path = CDiggins/SVG-Forked
+	url = https://github.com/cdiggins/SVG-Forked
+[submodule "CDiggins/Plato.Math"]
+	path = CDiggins/Plato.Math
+	url = https://github.com/cdiggins/Plato.Math
+[submodule "CDiggins/myna-parser"]
+	path = CDiggins/myna-parser
+	url = https://github.com/cdiggins/myna-parser
+[submodule "CDiggins/cdiggins.github.io"]
+	path = CDiggins/cdiggins.github.io
+	url = https://github.com/cdiggins/cdiggins.github.io
+[submodule "CDiggins/plato-geometry-toolkit"]
+	path = CDiggins/plato-geometry-toolkit
+	url = https://github.com/cdiggins/plato-geometry-toolkit
+[submodule "CDiggins/learning-to-code"]
+	path = CDiggins/learning-to-code
+	url = https://github.com/cdiggins/learning-to-code
+[submodule "CDiggins/Platonic.CSharp"]
+	path = CDiggins/Platonic.CSharp
+	url = https://github.com/cdiggins/Platonic.CSharp
+[submodule "CDiggins/domo"]
+	path = CDiggins/domo
+	url = https://github.com/cdiggins/domo
+[submodule "CDiggins/g3d"]
+	path = CDiggins/g3d
+	url = https://github.com/cdiggins/g3d
+[submodule "CDiggins/peacock"]
+	path = CDiggins/peacock
+	url = https://github.com/cdiggins/peacock
+[submodule "CDiggins/widgetology"]
+	path = CDiggins/widgetology
+	url = https://github.com/cdiggins/widgetology
+[submodule "CDiggins/cat-language"]
+	path = CDiggins/cat-language
+	url = https://github.com/cdiggins/cat-language
+[submodule "CDiggins/exaltation"]
+	path = CDiggins/exaltation
+	url = https://github.com/cdiggins/exaltation
+[submodule "CSharp/Clipper2"]
+	path = CSharp/Clipper2
+	url = https://github.com/AngusJohnson/Clipper2
+[submodule "CSharp/ColorHelper"]
+	path = CSharp/ColorHelper
+	url = https://github.com/iamartyom/ColorHelper
+[submodule "CSharp/Colourful"]
+	path = CSharp/Colourful
+	url = https://github.com/tompazourek/Colourful
+[submodule "CSharp/Computational-geometry"]
+	path = CSharp/Computational-geometry
+	url = https://github.com/Habrador/Computational-geometry
+[submodule "CSharp/CyclonePhysicsEngine"]
+	path = CSharp/CyclonePhysicsEngine
+	url = https://github.com/Scrawk/CyclonePhysicsEngine
+[submodule "CSharp/FastNoiseLite"]
+	path = CSharp/FastNoiseLite
+	url = https://github.com/Auburn/FastNoiseLite
+[submodule "CSharp/Elements"]
+	path = CSharp/Elements
+	url = https://github.com/hypar-io/Elements
+[submodule "CSharp/G-Shark"]
+	path = CSharp/G-Shark
+	url = https://github.com/GSharker/G-Shark
+[submodule "CSharp/GeometRi.CSharp"]
+	path = CSharp/GeometRi.CSharp
+	url = https://github.com/RiSearcher/GeometRi.CSharp
+[submodule "CSharp/Hull-Delaunay-Voronoi"]
+	path = CSharp/Hull-Delaunay-Voronoi
+	url = https://github.com/Scrawk/Hull-Delaunay-Voronoi
+[submodule "CSharp/LearnOpenTK"]
+	path = CSharp/LearnOpenTK
+	url = https://github.com/opentk/LearnOpenTK
+[submodule "CSharp/LibTessDotNet"]
+	path = CSharp/LibTessDotNet
+	url = https://github.com/speps/LibTessDotNet
+[submodule "CSharp/MIConvexHull"]
+	path = CSharp/MIConvexHull
+	url = https://github.com/DesignEngrLab/MIConvexHull
+[submodule "CSharp/MathUtilities"]
+	path = CSharp/MathUtilities
+	url = https://github.com/zalo/MathUtilities
+[submodule "CSharp/ImageSharp"]
+	path = CSharp/ImageSharp
+	url = https://github.com/SixLabors/ImageSharp
+[submodule "CSharp/NAudio"]
+	path = CSharp/NAudio
+	url = https://github.com/naudio/NAudio
+[submodule "CSharp/NetTopologySuite"]
+	path = CSharp/NetTopologySuite
+	url = https://github.com/NetTopologySuite/NetTopologySuite
+[submodule "JavaScript/OpenJSCAD.org"]
+	path = JavaScript/OpenJSCAD.org
+	url = https://github.com/jscad/OpenJSCAD.org
+[submodule "CSharp/PhotoSauce"]
+	path = CSharp/PhotoSauce
+	url = https://github.com/saucecontrol/PhotoSauce
+[submodule "CSharp/SharpGLTF"]
+	path = CSharp/SharpGLTF
+	url = https://github.com/vpenades/SharpGLTF
+[submodule "CSharp/SharpMap"]
+	path = CSharp/SharpMap
+	url = https://github.com/SharpMap/SharpMap
+[submodule "CSharp/bepuphysics2"]
+	path = CSharp/bepuphysics2
+	url = https://github.com/bepu/bepuphysics2
+[submodule "CSharp/core"]
+	path = CSharp/core
+	url = https://github.com/OsmSharp/core
+[submodule "CSharp/Silk.NET"]
+	path = CSharp/Silk.NET
+	url = https://github.com/dotnet/Silk.NET
+[submodule "CSharp/cscore"]
+	path = CSharp/cscore
+	url = https://github.com/filoe/cscore
+[submodule "CSharp/glTF-CSharp-Loader"]
+	path = CSharp/glTF-CSharp-Loader
+	url = https://github.com/KhronosGroup/glTF-CSharp-Loader
+[submodule "CSharp/jitterphysics"]
+	path = CSharp/jitterphysics
+	url = https://github.com/notgiven688/jitterphysics
+[submodule "CSharp/helix-toolkit"]
+	path = CSharp/helix-toolkit
+	url = https://github.com/helix-toolkit/helix-toolkit
+[submodule "CSharp/mathnet-spatial"]
+	path = CSharp/mathnet-spatial
+	url = https://github.com/mathnet/mathnet-spatial
+[submodule "CSharp/mathnet-symbolics"]
+	path = CSharp/mathnet-symbolics
+	url = https://github.com/mathnet/mathnet-symbolics
+[submodule "CSharp/mathnet-filtering"]
+	path = CSharp/mathnet-filtering
+	url = https://github.com/mathnet/mathnet-filtering
+[submodule "CSharp/RayTracers/veldrid-raytracer"]
+	path = CSharp/RayTracers/veldrid-raytracer
+	url = https://github.com/mellinoe/veldrid-raytracer
+[submodule "CSharp/RayTracers/rt"]
+	path = CSharp/RayTracers/rt
+	url = https://github.com/praeclarum/rt
+[submodule "CSharp/RayTracers/cs-smallpt"]
+	path = CSharp/RayTracers/cs-smallpt
+	url = https://github.com/matt77hias/cs-smallpt
