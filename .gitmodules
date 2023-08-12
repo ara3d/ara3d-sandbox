@@ -271,3 +271,36 @@
 [submodule "CSharp/RayTracers/cs-smallpt"]
 	path = CSharp/RayTracers/cs-smallpt
 	url = https://github.com/matt77hias/cs-smallpt
+[submodule "CSharp/Formats/assimp-net"]
+	path = CSharp/Formats/assimp-net
+	url = https://github.com/assimp/assimp-net
+[submodule "CSharp/Formats/STLdotNET"]
+	path = CSharp/Formats/STLdotNET
+	url = https://github.com/QuantumConcepts/STLdotNET
+[submodule "CSharp/Formats/file-format-wavefront"]
+	path = CSharp/Formats/file-format-wavefront
+	url = https://github.com/dwmkerr/file-format-wavefront
+[submodule "CSharp/Formats/ObjParser"]
+	path = CSharp/Formats/ObjParser
+	url = https://github.com/stefangordon/ObjParser
+[submodule "CSharp/Formats/PlyImporter"]
+	path = CSharp/Formats/PlyImporter
+	url = https://github.com/3DBear/PlyImporter
+[submodule "CSharp/Formats/GeometryGymIFC"]
+	path = CSharp/Formats/GeometryGymIFC
+	url = https://github.com/GeometryGym/GeometryGymIFC
+[submodule "CSharp/3D/Vulkan.NET"]
+	path = CSharp/3D/Vulkan.NET
+	url = https://github.com/EvergineTeam/Vulkan.NET
+[submodule "CSharp/Formats/draco"]
+	path = CSharp/Formats/draco
+	url = https://github.com/EvergineTeam/draco
+[submodule "CSharp/3D/XbimGeometry"]
+	path = CSharp/Geometry/XbimGeometry
+	url = https://github.com/xBimTeam/XbimGeometry
+[submodule "CSharp/2D/ImGui.NET"]
+	path = CSharp/2D/ImGui.NET
+	url = https://github.com/ImGuiNET/ImGui.NET
+[submodule "CSharp/Formats/step"]
+	path = CSharp/Formats/step
+	url = https://github.com/ixmilia/step
