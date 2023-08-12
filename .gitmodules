@@ -74,34 +74,34 @@
 	path = Autodesk/DirectObjLoader
 	url = https://github.com/jeremytammik/DirectObjLoader
 [submodule "CSharp/sharpgl"]
-	path = CSharp/sharpgl
+	path = CSharp/3D/sharpgl
 	url = https://github.com/dwmkerr/sharpgl
 [submodule "CSharp/geometry3Sharp"]
-	path = CSharp/geometry3Sharp
+	path = CSharp/Geometry/geometry3Sharp
 	url = https://github.com/gradientspace/geometry3Sharp
 [submodule "CSharp/Unity.Mathematics"]
-	path = CSharp/Unity.Mathematics
+	path = CSharp/Math/Unity.Mathematics
 	url = https://github.com/Unity-Technologies/Unity.Mathematics
 [submodule "CSharp/SVG"]
-	path = CSharp/SVG
+	path = CSharp/2D/SVG
 	url = https://github.com/svg-net/SVG
 [submodule "CSharp/NGraphics"]
-	path = CSharp/NGraphics
+	path = CSharp/3D/NGraphics
 	url = https://github.com/praeclarum/NGraphics
 [submodule "CSharp/SdfKit"]
-	path = CSharp/SdfKit
+	path = CSharp/3D/SdfKit
 	url = https://github.com/praeclarum/SdfKit
 [submodule "CSharp/stride"]
-	path = CSharp/stride
+	path = CSharp/Game/stride
 	url = https://github.com/stride3d/stride
 [submodule "CSharp/mathnet-numerics"]
-	path = CSharp/mathnet-numerics
+	path = CSharp/Math/mathnet-numerics
 	url = https://github.com/mathnet/mathnet-numerics
 [submodule "CSharp/Csg"]
-	path = CSharp/Csg
+	path = CSharp/Geometry/Csg
 	url = https://github.com/praeclarum/Csg
 [submodule "CSharp/MonoGame"]
-	path = CSharp/MonoGame
+	path = CSharp/Game/MonoGame
 	url = https://github.com/MonoGame/MonoGame
 [submodule "CDiggins/parakeet"]
 	path = CDiggins/parakeet
@@ -170,97 +170,97 @@
 	path = CDiggins/exaltation
 	url = https://github.com/cdiggins/exaltation
 [submodule "CSharp/Clipper2"]
-	path = CSharp/Clipper2
+	path = CSharp/Geometry/Clipper2
 	url = https://github.com/AngusJohnson/Clipper2
 [submodule "CSharp/ColorHelper"]
-	path = CSharp/ColorHelper
+	path = CSharp/Color/ColorHelper
 	url = https://github.com/iamartyom/ColorHelper
 [submodule "CSharp/Colourful"]
-	path = CSharp/Colourful
+	path = CSharp/Color/Colourful
 	url = https://github.com/tompazourek/Colourful
 [submodule "CSharp/Computational-geometry"]
-	path = CSharp/Computational-geometry
+	path = CSharp/Geometry/Computational-geometry
 	url = https://github.com/Habrador/Computational-geometry
 [submodule "CSharp/CyclonePhysicsEngine"]
-	path = CSharp/CyclonePhysicsEngine
+	path = CSharp/Physics/CyclonePhysicsEngine
 	url = https://github.com/Scrawk/CyclonePhysicsEngine
 [submodule "CSharp/FastNoiseLite"]
-	path = CSharp/FastNoiseLite
+	path = CSharp/Math/FastNoiseLite
 	url = https://github.com/Auburn/FastNoiseLite
 [submodule "CSharp/Elements"]
-	path = CSharp/Elements
+	path = CSharp/3D/Elements
 	url = https://github.com/hypar-io/Elements
 [submodule "CSharp/G-Shark"]
-	path = CSharp/G-Shark
+	path = CSharp/Geometry/G-Shark
 	url = https://github.com/GSharker/G-Shark
 [submodule "CSharp/GeometRi.CSharp"]
-	path = CSharp/GeometRi.CSharp
+	path = CSharp/Geometry/GeometRi.CSharp
 	url = https://github.com/RiSearcher/GeometRi.CSharp
 [submodule "CSharp/Hull-Delaunay-Voronoi"]
-	path = CSharp/Hull-Delaunay-Voronoi
+	path = CSharp/Geometry/Hull-Delaunay-Voronoi
 	url = https://github.com/Scrawk/Hull-Delaunay-Voronoi
 [submodule "CSharp/LearnOpenTK"]
-	path = CSharp/LearnOpenTK
+	path = CSharp/3D/LearnOpenTK
 	url = https://github.com/opentk/LearnOpenTK
 [submodule "CSharp/LibTessDotNet"]
-	path = CSharp/LibTessDotNet
+	path = CSharp/Geometry/LibTessDotNet
 	url = https://github.com/speps/LibTessDotNet
 [submodule "CSharp/MIConvexHull"]
-	path = CSharp/MIConvexHull
+	path = CSharp/Geometry/MIConvexHull
 	url = https://github.com/DesignEngrLab/MIConvexHull
 [submodule "CSharp/MathUtilities"]
-	path = CSharp/MathUtilities
+	path = CSharp/Math/MathUtilities
 	url = https://github.com/zalo/MathUtilities
 [submodule "CSharp/ImageSharp"]
-	path = CSharp/ImageSharp
+	path = CSharp/Images/ImageSharp
 	url = https://github.com/SixLabors/ImageSharp
 [submodule "CSharp/NAudio"]
-	path = CSharp/NAudio
+	path = CSharp/Audio/NAudio
 	url = https://github.com/naudio/NAudio
 [submodule "CSharp/NetTopologySuite"]
-	path = CSharp/NetTopologySuite
+	path = CSharp/GIS/NetTopologySuite
 	url = https://github.com/NetTopologySuite/NetTopologySuite
 [submodule "JavaScript/OpenJSCAD.org"]
 	path = JavaScript/OpenJSCAD.org
 	url = https://github.com/jscad/OpenJSCAD.org
 [submodule "CSharp/PhotoSauce"]
-	path = CSharp/PhotoSauce
+	path = CSharp/Images/PhotoSauce
 	url = https://github.com/saucecontrol/PhotoSauce
 [submodule "CSharp/SharpGLTF"]
-	path = CSharp/SharpGLTF
+	path = CSharp/Formats/SharpGLTF
 	url = https://github.com/vpenades/SharpGLTF
 [submodule "CSharp/SharpMap"]
-	path = CSharp/SharpMap
+	path = CSharp/GIS/SharpMap
 	url = https://github.com/SharpMap/SharpMap
 [submodule "CSharp/bepuphysics2"]
-	path = CSharp/bepuphysics2
+	path = CSharp/Physics/bepuphysics2
 	url = https://github.com/bepu/bepuphysics2
 [submodule "CSharp/core"]
-	path = CSharp/core
+	path = CSharp/GIS/core
 	url = https://github.com/OsmSharp/core
 [submodule "CSharp/Silk.NET"]
-	path = CSharp/Silk.NET
+	path = CSharp/3D/Silk.NET
 	url = https://github.com/dotnet/Silk.NET
 [submodule "CSharp/cscore"]
-	path = CSharp/cscore
+	path = CSharp/Audio/cscore
 	url = https://github.com/filoe/cscore
 [submodule "CSharp/glTF-CSharp-Loader"]
-	path = CSharp/glTF-CSharp-Loader
+	path = CSharp/Formats/glTF-CSharp-Loader
 	url = https://github.com/KhronosGroup/glTF-CSharp-Loader
 [submodule "CSharp/jitterphysics"]
-	path = CSharp/jitterphysics
+	path = CSharp/Physics/jitterphysics
 	url = https://github.com/notgiven688/jitterphysics
 [submodule "CSharp/helix-toolkit"]
-	path = CSharp/helix-toolkit
+	path = CSharp/3D/helix-toolkit
 	url = https://github.com/helix-toolkit/helix-toolkit
 [submodule "CSharp/mathnet-spatial"]
-	path = CSharp/mathnet-spatial
+	path = CSharp/Math/mathnet-spatial
 	url = https://github.com/mathnet/mathnet-spatial
 [submodule "CSharp/mathnet-symbolics"]
-	path = CSharp/mathnet-symbolics
+	path = CSharp/Math/mathnet-symbolics
 	url = https://github.com/mathnet/mathnet-symbolics
 [submodule "CSharp/mathnet-filtering"]
-	path = CSharp/mathnet-filtering
+	path = CSharp/Math/mathnet-filtering
 	url = https://github.com/mathnet/mathnet-filtering
 [submodule "CSharp/RayTracers/veldrid-raytracer"]
 	path = CSharp/RayTracers/veldrid-raytracer
