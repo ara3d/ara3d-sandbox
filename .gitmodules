@@ -304,3 +304,21 @@
 [submodule "CSharp/Formats/step"]
 	path = CSharp/Formats/step
 	url = https://github.com/ixmilia/step
+[submodule "CSharp/3D/open3mod"]
+	path = CSharp/3D/open3mod
+	url = https://github.com/acgessler/open3mod
+[submodule "CSharp/Formats/ACadSharp"]
+	path = CSharp/Formats/ACadSharp
+	url = https://github.com/DomCR/ACadSharp
+[submodule "CSharp/Formats/netDxf"]
+	path = CSharp/Formats/netDxf
+	url = https://github.com/haplokuon/netDxf
+[submodule "CSharp/3D/SimpleCad"]
+	path = CSharp/3D/SimpleCad
+	url = https://github.com/oozcitak/SimpleCad
+[submodule "CSharp/3D/Macad3D"]
+	path = CSharp/3D/Macad3D
+	url = https://github.com/Macad3D/Macad3D
+[submodule "CSharp/Formats/Assimp.Net"]
+	path = CSharp/Formats/Assimp.Net
+	url = https://github.com/StirlingLabs/Assimp.Net
