@@ -5,7 +5,13 @@ VisualStudioVersion = 17.1.32104.313
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ara3D.OpenTK", "Ara3D.OpenTK\Ara3D.OpenTK.csproj", "{734E424D-3E83-4183-A34A-BE9EB2F99258}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ara3D.RhinoReader", "Experiments\Ara3D.RhinoReader\Ara3D.RhinoReader.csproj", "{F96C46AF-12E6-4151-A864-14968C8FAC91}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ara3D.RhinoReader", "Experiments\Ara3D.RhinoReader\Ara3D.RhinoReader.csproj", "{F96C46AF-12E6-4151-A864-14968C8FAC91}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Vim.G3d", "..\CDiggins\g3d\csharp\Vim.G3d\Vim.G3d.csproj", "{B0584B26-ECF8-410B-8B18-49EB432783DD}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Vim.G3d.AssimpWrapper", "..\CDiggins\g3d\csharp\Vim.G3d.AssimpWrapper\Vim.G3d.AssimpWrapper.csproj", "{9B511E2C-F335-4DA2-84FE-953E28809F43}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Vim.G3d.Tests", "..\CDiggins\g3d\csharp\Vim.G3d.Tests\Vim.G3d.Tests.csproj", "{05CF8735-82B3-483E-9495-38D104A6A24B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +27,18 @@ Global
 		{F96C46AF-12E6-4151-A864-14968C8FAC91}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F96C46AF-12E6-4151-A864-14968C8FAC91}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F96C46AF-12E6-4151-A864-14968C8FAC91}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0584B26-ECF8-410B-8B18-49EB432783DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0584B26-ECF8-410B-8B18-49EB432783DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0584B26-ECF8-410B-8B18-49EB432783DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0584B26-ECF8-410B-8B18-49EB432783DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B511E2C-F335-4DA2-84FE-953E28809F43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B511E2C-F335-4DA2-84FE-953E28809F43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B511E2C-F335-4DA2-84FE-953E28809F43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B511E2C-F335-4DA2-84FE-953E28809F43}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05CF8735-82B3-483E-9495-38D104A6A24B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05CF8735-82B3-483E-9495-38D104A6A24B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05CF8735-82B3-483E-9495-38D104A6A24B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05CF8735-82B3-483E-9495-38D104A6A24B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

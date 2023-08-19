@@ -289,9 +289,6 @@
 [submodule "CSharp/Formats/GeometryGymIFC"]
 	path = CSharp/Formats/GeometryGymIFC
 	url = https://github.com/GeometryGym/GeometryGymIFC
-[submodule "CSharp/3D/Vulkan.NET"]
-	path = CSharp/3D/Vulkan.NET
-	url = https://github.com/EvergineTeam/Vulkan.NET
 [submodule "CSharp/Formats/draco"]
 	path = CSharp/Formats/draco
 	url = https://github.com/EvergineTeam/draco
@@ -322,3 +319,12 @@
 [submodule "CSharp/Formats/Assimp.Net"]
 	path = CSharp/Formats/Assimp.Net
 	url = https://github.com/StirlingLabs/Assimp.Net
+[submodule "Cpp/FBX2glTF"]
+	path = Cpp/FBX2glTF
+	url = https://github.com/facebookincubator/FBX2glTF
+[submodule "Cpp/draco"]
+	path = Cpp/draco
+	url = https://github.com/google/draco
+[submodule "CSharp/Dynamo"]
+	path = CSharp/Dynamo
+	url = https://github.com/DynamoDS/Dynamo

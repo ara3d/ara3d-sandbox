@@ -9,6 +9,11 @@
 
   <ItemGroup>
     <PackageReference Include="Rhino3dm" Version="7.15.0" />
+    <PackageReference Include="Vim.Math3D" Version="1.6.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\CDiggins\g3d\csharp\Vim.G3d\Vim.G3d.csproj" />
   </ItemGroup>
 
 </Project>
