@@ -328,3 +328,78 @@
 [submodule "CSharp/Dynamo"]
 	path = CSharp/Dynamo
 	url = https://github.com/DynamoDS/Dynamo
+[submodule "Autodesk/Revit2glTF"]
+	path = Autodesk/Revit2glTF
+	url = https://github.com/McCulloughRT/Revit2glTF
+[submodule "Autodesk/RvtVa3c"]
+	path = Autodesk/RvtVa3c
+	url = https://github.com/va3c/RvtVa3c
+[submodule "Autodesk/revit-stl-extension"]
+	path = Autodesk/revit-stl-extension
+	url = https://github.com/Autodesk/revit-stl-extension
+[submodule "Autodesk/HOK-Revit-Addins"]
+	path = Autodesk/HOK-Revit-Addins
+	url = https://github.com/HOKGroup/HOK-Revit-Addins
+[submodule "Autodesk/RevitDBExplorer"]
+	path = Autodesk/RevitDBExplorer
+	url = https://github.com/NeVeSpl/RevitDBExplorer
+[submodule "Autodesk/RevitFamilyBrowser"]
+	path = Autodesk/RevitFamilyBrowser
+	url = https://github.com/RomanLavrov/RevitFamilyBrowser
+[submodule "Autodesk/Revit2GLTF"]
+	path = Autodesk/Revit2GLTF
+	url = https://github.com/cowboy1997/Revit2GLTF
+[submodule "Autodesk/Revit2GLTF_Cowboy1997"]
+	path = Autodesk/Revit2GLTF_Cowboy1997
+	url = https://github.com/cowboy1997/Revit2GLTF
+[submodule "Autodesk/RevitAddInManager"]
+	path = Autodesk/RevitAddInManager
+	url = https://github.com/chuongmep/RevitAddInManager
+[submodule "Autodesk/Revit.ScriptCS"]
+	path = Autodesk/Revit.ScriptCS
+	url = https://github.com/sridharbaldava/Revit.ScriptCS
+[submodule "CSharp/GeometryGymIFC"]
+	path = CSharp/GeometryGymIFC
+	url = https://github.com/GeometryGym/GeometryGymIFC
+[submodule "Autodesk/RevitLookupWpf"]
+	path = Autodesk/RevitLookupWpf
+	url = https://github.com/weianweigan/RevitLookupWpf
+[submodule "Autodesk/RevitExportObjAndGltf"]
+	path = Autodesk/RevitExportObjAndGltf
+	url = https://github.com/weiyu666/RevitExportObjAndGltf
+[submodule "Autodesk/Reveche"]
+	path = Autodesk/Reveche
+	url = https://github.com/teocomi/Reveche
+[submodule "Autodesk/rhino.inside-revit"]
+	path = Autodesk/rhino.inside-revit
+	url = https://github.com/mcneel/rhino.inside-revit
+[submodule "Autodesk/RevitElementBipChecker"]
+	path = Autodesk/RevitElementBipChecker
+	url = https://github.com/chuongmep/RevitElementBipChecker
+[submodule "Autodesk/addins-colorsplasher"]
+	path = Autodesk/addins-colorsplasher
+	url = https://github.com/bimone/addins-colorsplasher
+[submodule "Autodesk/GroupClashes"]
+	path = Autodesk/GroupClashes
+	url = https://github.com/bimone/GroupClashes
+[submodule "Autodesk/addins-excelexporterimporter"]
+	path = Autodesk/addins-excelexporterimporter
+	url = https://github.com/bimone/addins-excelexporterimporter
+[submodule "CSharp/BCF-XML"]
+	path = CSharp/BCF-XML
+	url = https://github.com/buildingSMART/BCF-XML
+[submodule "CSharp/XbimBCF"]
+	path = CSharp/XbimBCF
+	url = https://github.com/xBimTeam/XbimBCF
+[submodule "CSharp/XbimEssentials"]
+	path = CSharp/XbimEssentials
+	url = https://github.com/xBimTeam/XbimEssentials
+[submodule "CSharp/XbimSamples"]
+	path = CSharp/XbimSamples
+	url = https://github.com/xBimTeam/XbimSamples
+[submodule "CSharp/XbimGltf"]
+	path = CSharp/XbimGltf
+	url = https://github.com/xBimTeam/XbimGltf
+[submodule "CSharp/XbimMvdXML"]
+	path = CSharp/XbimMvdXML
+	url = https://github.com/xBimTeam/XbimMvdXML
