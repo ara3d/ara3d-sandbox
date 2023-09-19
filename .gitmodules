@@ -403,3 +403,27 @@
 [submodule "CSharp/XbimMvdXML"]
 	path = CSharp/XbimMvdXML
 	url = https://github.com/xBimTeam/XbimMvdXML
+[submodule "Data/Sample-Test-Files"]
+	path = Data/Sample-Test-Files
+	url = https://github.com/buildingSMART/Sample-Test-Files
+[submodule "Unreal/UnrealCLR"]
+	path = Unreal/UnrealCLR
+	url = https://github.com/nxrighthere/UnrealCLR
+[submodule "Unreal/StreetMap"]
+	path = Unreal/StreetMap
+	url = https://github.com/ue4plugins/StreetMap
+[submodule "Unreal/UETools"]
+	path = Unreal/UETools
+	url = https://github.com/UETools/UETools
+[submodule "Cpp/meshlab"]
+	path = Cpp/meshlab
+	url = https://github.com/cnr-isti-vclab/meshlab
+[submodule "Cpp/alembic"]
+	path = Cpp/alembic
+	url = https://github.com/alembic/alembic
+[submodule "Autodesk/Revit2Gltf"]
+	path = Autodesk/Revit2Gltf
+	url = https://github.com/twinup/Revit2Gltf/tree/main/Revit2Gltf
+[submodule "Autodesk/Revit2Gltf_twinup"]
+	path = Autodesk/Revit2Gltf_twinup
+	url = https://github.com/twinup/Revit2Gltf
