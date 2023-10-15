@@ -427,3 +427,69 @@
 [submodule "Autodesk/Revit2Gltf_twinup"]
 	path = Autodesk/Revit2Gltf_twinup
 	url = https://github.com/twinup/Revit2Gltf
+[submodule "CSharp/OpenTK-PathTracer"]
+	path = CSharp/OpenTK-PathTracer
+	url = https://github.com/BoyBaykiller/OpenTK-PathTracer
+[submodule "CSharp/SharpQuake"]
+	path = CSharp/SharpQuake
+	url = https://github.com/Memorix101/SharpQuake
+[submodule "CSharp/OpenTKTutorialContent"]
+	path = CSharp/OpenTKTutorialContent
+	url = https://github.com/neokabuto/OpenTKTutorialContent
+[submodule "CSharp/GLWpfControl"]
+	path = CSharp/GLWpfControl
+	url = https://github.com/opentk/GLWpfControl
+[submodule "CSharp/meltysynth"]
+	path = CSharp/meltysynth
+	url = https://github.com/sinshu/meltysynth
+[submodule "CSharp/Newtonian-Particle-Simulator"]
+	path = CSharp/Newtonian-Particle-Simulator
+	url = https://github.com/BoyBaykiller/Newtonian-Particle-Simulator
+[submodule "CSharp/IDKEngine"]
+	path = CSharp/IDKEngine
+	url = https://github.com/BoyBaykiller/IDKEngine
+[submodule "CSharp/3D/rt"]
+	path = CSharp/3D/rt
+	url = https://github.com/praeclarum/rt
+[submodule "JavaScript/cesium"]
+	path = JavaScript/cesium
+	url = https://github.com/CesiumGS/cesium
+[submodule "Cpp/assimp"]
+	path = Cpp/assimp
+	url = https://github.com/assimp/assimp
+[submodule "JavaScript/three.js"]
+	path = JavaScript/three.js
+	url = https://github.com/mrdoob/three.js
+[submodule "CSharp/Formats/FbxSharp"]
+	path = CSharp/Formats/FbxSharp
+	url = https://github.com/izrik/FbxSharp
+[submodule "CSharp/Formats/FbxWriter"]
+	path = CSharp/Formats/FbxWriter
+	url = https://github.com/hamish-milne/FbxWriter
+[submodule "Cpp/OpenFBX"]
+	path = Cpp/OpenFBX
+	url = https://github.com/nem0/OpenFBX
+[submodule "Cpp/glTF-Toolkit"]
+	path = Cpp/glTF-Toolkit
+	url = https://github.com/Microsoft/glTF-Toolkit
+[submodule "Cpp/Open3D"]
+	path = Cpp/Open3D
+	url = https://github.com/isl-org/Open3D
+[submodule "JavaScript/binary-gltf-utils"]
+	path = JavaScript/binary-gltf-utils
+	url = https://github.com/Qantas94Heavy/binary-gltf-utils
+[submodule "Cpp/stepcode"]
+	path = Cpp/stepcode
+	url = https://github.com/stepcode/stepcode
+[submodule "Vimaec/vim-webgl-component"]
+	path = Vimaec/vim-webgl-component
+	url = https://github.com/vimaec/vim-webgl-component
+[submodule "CSharp/3D/ObjectTK"]
+	path = CSharp/3D/ObjectTK
+	url = https://github.com/opentk/ObjectTK
+[submodule "CSharp/3D/TrippyGL"]
+	path = CSharp/3D/TrippyGL
+	url = https://github.com/SilkCommunity/TrippyGL
+[submodule "CSharp/3D/SimpleScene"]
+	path = CSharp/3D/SimpleScene
+	url = https://github.com/jeske/SimpleScene
